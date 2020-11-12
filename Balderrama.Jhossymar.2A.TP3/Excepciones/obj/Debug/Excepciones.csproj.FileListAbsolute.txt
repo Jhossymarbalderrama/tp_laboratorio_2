@@ -10,3 +10,8 @@ C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Excepciones\obj\Debu
 C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
 C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Excepciones\obj\Debug\Excepciones.dll
 C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb

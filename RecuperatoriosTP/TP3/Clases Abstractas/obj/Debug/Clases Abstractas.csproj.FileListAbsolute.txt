@@ -1,0 +1,36 @@
+C:\Users\balde\source\repos\Balderrama.Jhossymar.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\balde\source\repos\Balderrama.Jhossymar.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\balde\source\repos\Balderrama.Jhossymar.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\balde\source\repos\Balderrama.Jhossymar.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\balde\source\repos\Balderrama.Jhossymar.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\balde\source\repos\Balderrama.Jhossymar.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\balde\source\repos\Balderrama.Jhossymar.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\balde\source\repos\Balderrama.Jhossymar.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\balde\source\repos\Balderrama.Jhossymar.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

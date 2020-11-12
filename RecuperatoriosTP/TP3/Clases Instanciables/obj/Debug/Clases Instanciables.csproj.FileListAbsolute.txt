@@ -1,0 +1,52 @@
+C:\Users\balde\source\repos\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\balde\source\repos\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\balde\source\repos\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\balde\source\repos\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\balde\source\repos\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\balde\source\repos\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\balde\source\repos\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\balde\source\repos\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\balde\source\repos\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\balde\source\repos\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\balde\source\repos\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\balde\source\repos\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\balde\source\repos\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo_Practico_N3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Balderrama.Jhossymar.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
