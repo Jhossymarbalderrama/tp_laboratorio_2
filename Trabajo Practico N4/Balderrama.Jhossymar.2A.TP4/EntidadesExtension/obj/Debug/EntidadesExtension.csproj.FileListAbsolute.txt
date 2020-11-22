@@ -1,0 +1,6 @@
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\EntidadesExtension\bin\Debug\EntidadesExtension.dll
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\EntidadesExtension\bin\Debug\EntidadesExtension.pdb
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\EntidadesExtension\obj\Debug\EntidadesExtension.csproj.CoreCompileInputs.cache
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\EntidadesExtension\obj\Debug\EntidadesExtension.dll
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\EntidadesExtension\obj\Debug\EntidadesExtension.pdb
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\EntidadesExtension\obj\Debug\EntidadesExtension.csprojAssemblyReference.cache
