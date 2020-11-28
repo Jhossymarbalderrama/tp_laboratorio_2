@@ -1,0 +1,34 @@
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\bin\Debug\FrmConsecionaria.exe.config
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\bin\Debug\FrmConsecionaria.exe
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\bin\Debug\FrmConsecionaria.pdb
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\bin\Debug\Entidades.dll
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\bin\Debug\EntidadesExtension.dll
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\bin\Debug\Entidades.pdb
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\bin\Debug\EntidadesExtension.pdb
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\obj\Debug\FrmConcesionaria.csprojAssemblyReference.cache
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\obj\Debug\FrmConsecionaria.FrmAlta.resources
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\obj\Debug\FrmConsecionaria.FrmInicio.resources
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\obj\Debug\FrmConsecionaria.FrmLista.resources
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\obj\Debug\FrmConsecionaria.Properties.Resources.resources
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\obj\Debug\FrmConcesionaria.csproj.GenerateResource.cache
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\obj\Debug\FrmConcesionaria.csproj.CoreCompileInputs.cache
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\obj\Debug\FrmConcesionaria.csproj.CopyComplete
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\obj\Debug\FrmConsecionaria.exe
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\obj\Debug\FrmConsecionaria.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\bin\Debug\FrmConsecionaria.exe.config
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\bin\Debug\FrmConsecionaria.exe
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\bin\Debug\FrmConsecionaria.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\bin\Debug\Entidades.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\bin\Debug\EntidadesExtension.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\bin\Debug\Entidades.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\bin\Debug\EntidadesExtension.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\obj\Debug\FrmConcesionaria.csprojAssemblyReference.cache
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\obj\Debug\FrmConsecionaria.FrmAlta.resources
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\obj\Debug\FrmConsecionaria.FrmInicio.resources
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\obj\Debug\FrmConsecionaria.FrmLista.resources
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\obj\Debug\FrmConsecionaria.Properties.Resources.resources
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\obj\Debug\FrmConcesionaria.csproj.GenerateResource.cache
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\obj\Debug\FrmConcesionaria.csproj.CoreCompileInputs.cache
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\obj\Debug\FrmConcesionaria.csproj.CopyComplete
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\obj\Debug\FrmConsecionaria.exe
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\FrmConsecionaria\obj\Debug\FrmConsecionaria.pdb

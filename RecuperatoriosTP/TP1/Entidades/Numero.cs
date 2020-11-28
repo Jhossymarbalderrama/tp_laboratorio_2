@@ -42,7 +42,7 @@ namespace Entidades
         /// Seter de numero, establece un numero en el atributo solo si se pudo validar, caso contrario 
         /// lo establece en 0,
         /// </summary>
-        public string SetNumero
+        private string SetNumero
         {
             set { this.numero = ValidarNumero(value); }
         }

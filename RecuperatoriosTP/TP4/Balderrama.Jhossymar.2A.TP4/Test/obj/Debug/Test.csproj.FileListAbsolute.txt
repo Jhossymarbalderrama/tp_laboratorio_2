@@ -1,0 +1,24 @@
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\Test\bin\Debug\Test.exe.config
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\Test\bin\Debug\Test.exe
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\Test\bin\Debug\Test.pdb
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\Test\bin\Debug\Entidades.dll
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\Test\bin\Debug\Entidades.pdb
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\Test\obj\Debug\Test.exe
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\Test\obj\Debug\Test.pdb
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\Test\bin\Debug\EntidadesExtension.dll
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\Test\bin\Debug\EntidadesExtension.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\Test\bin\Debug\Test.exe.config
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\Test\bin\Debug\Test.exe
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\Test\bin\Debug\Test.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\Test\bin\Debug\Entidades.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\Test\bin\Debug\EntidadesExtension.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\Test\bin\Debug\Entidades.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\Test\bin\Debug\EntidadesExtension.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\Test\obj\Debug\Test.exe
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\Test\obj\Debug\Test.pdb

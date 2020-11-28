@@ -1,0 +1,18 @@
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\Entidades\bin\Debug\EntidadesExtension.dll
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\Entidades\bin\Debug\EntidadesExtension.pdb
+C:\Users\balde\source\repos\TP4\Concesionaria_v2.0\Balderrama.Jhossymar.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\Entidades\bin\Debug\EntidadesExtension.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\Entidades\bin\Debug\EntidadesExtension.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\Trabajo Practico N4\Balderrama.Jhossymar.2A.TP4\Entidades\obj\Debug\Entidades.pdb
