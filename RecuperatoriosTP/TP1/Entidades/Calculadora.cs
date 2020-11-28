@@ -58,6 +58,9 @@ namespace Entidades
                     case "/":
                         retorno = num1 / num2;
                         break;
+                    default:
+                        retorno = num1 + num2;
+                        break;
                 }
             }
 

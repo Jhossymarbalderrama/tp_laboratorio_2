@@ -101,21 +101,23 @@ namespace Entidades
             bool auxBin = true;
             string strAux = "Valor Invalido";
 
-
-
-            foreach (var item in binario)
+            if (binario != null && binario != "")
             {
-                if (item != '0' && item != '1')
+
+                foreach (var item in binario)
                 {
-                    auxBin = false;
+                    if (item != '0' && item != '1')
+                    {
+                        auxBin = false;
+
+                    }
 
                 }
 
-            }
-
-            if (auxBin == true)
-            {
-                strAux = Convert.ToInt32(binario, 2).ToString();
+                if (auxBin == true)
+                {
+                    strAux = Convert.ToInt32(binario, 2).ToString();
+                }
             }
 
 

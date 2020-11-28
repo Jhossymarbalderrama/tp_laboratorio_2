@@ -25,3 +25,16 @@ C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\Trabajo_Practico_N1\MiC
 C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\Trabajo_Practico_N1\MiCalculadora\bin\Debug\Entidades.dll
 C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\Trabajo_Practico_N1\MiCalculadora\bin\Debug\Entidades.pdb
 C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\Trabajo_Practico_N1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\balde\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.pdb

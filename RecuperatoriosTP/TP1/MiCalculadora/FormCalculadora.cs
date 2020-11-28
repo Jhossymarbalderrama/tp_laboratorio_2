@@ -13,7 +13,6 @@ namespace MiCalculadora
 {
     public partial class FormCalculadora : Form
     {
-        bool opero = false;
         public FormCalculadora()
         {
             InitializeComponent();
@@ -21,17 +20,19 @@ namespace MiCalculadora
         }
 
         private void btnOperar_Click(object sender, EventArgs e)
-        {    
-            double valor = Operar(this.txtNumero1.Text, this.txtNumero2.Text, Convert.ToChar(this.cmbOperador.Text));
+        {
+            double valor;
+
+           valor = Operar(this.txtNumero1.Text, this.txtNumero2.Text, this.cmbOperador.Text[0]);
+            
 
             if (valor == double.MinValue)
             {                
-                this.lblResultado.Text = "Error.Intente Nuevamente";
+                this.lblResultado.Text = "Error.";
             }
             else
             {
                 this.lblResultado.Text = Convert.ToString(valor);
-                opero = true;
             }         
         }
          
@@ -52,14 +53,7 @@ namespace MiCalculadora
 
         private void btnConvertirADecimal_Click(object sender, EventArgs e)
         {
-          if(opero)
-            {
-                this.lblResultado.Text = Numero.BinarioDecimal(this.lblResultado.Text);
-            }
-            else
-            {
-                this.lblResultado.Text = "Valor Invalido";
-            }            
+            this.lblResultado.Text = Numero.BinarioDecimal(this.lblResultado.Text);          
         }
 
         /// <summary>
